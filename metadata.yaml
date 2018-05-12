@@ -1,0 +1,29 @@
+_repo: Thomas-Jefferson_33011
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merwin, Henry Childs
+    alias: Merwin, H. C. (Henry Childs)
+    birthdate: 1853
+    deathdate: 1929
+    gutenberg_agent_id: '36161'
+    url: http://www.gutenberg.org/2009/agents/36161
+description: ''
+gutenberg_issued: '2010-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Riverside Biographical Series, number 5
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcc 'E300'
+- !lcsh 'Jefferson, Thomas, 1743-1826'
+title: Thomas Jefferson
+url: http://www.gutenberg.org/ebooks/33011
